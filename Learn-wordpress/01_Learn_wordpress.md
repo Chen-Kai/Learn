@@ -1,6 +1,10 @@
-# Install Wordpress
-<hr>
+# Install ＷordPress
+# 安裝ＷordPress
+================================
+
+
 Step1:下載檔案後下一步<br>
+網址：https://wordpress.org/download/<br>
 <img width="1479" alt="1" src="https://cloud.githubusercontent.com/assets/1900906/24235531/bb5e1000-0fd8-11e7-8f4a-9adf14d143ed.png">
 
 Step2:輸入網址開始安裝後下一步<br>
